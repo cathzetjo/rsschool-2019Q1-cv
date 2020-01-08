@@ -1,1 +1,3 @@
-[https://cathzetjo.github.io/rsschool-2019Q1-cv/cv](https://cathzetjo.github.io/rsschool-2019Q1-cv/cv)
+[Markdown link](https://cathzetjo.github.io/rsschool-2019Q1-cv/cv)  
+
+[Markup link](https://cathzetjo.github.io/rsschool-2019Q1-cv/)
